@@ -24,5 +24,5 @@ Placeholder errors ("ERROR", "UNKNOWN" replaced with NaN)
 
 # Files
 model_training.ipynb - Model training and evaluation
-
+dirty_cafe_sales.csv
 report.pdf - Full project report
